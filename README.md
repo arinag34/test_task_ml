@@ -1,12 +1,77 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Experiment visualizer app
 
-Currently, two official plugins are available:
+Web application for visualizing ML experiments.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Overview
 
-## Expanding the ESLint configuration
+The app is a modern webapp for visualizing ML experiments with line charts and highlighting them if needed.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Tech Stack
+
+React
+
+
+## Installation
+
+### Prerequisites
+
+- Node.js
+- React
+
+### Setup
+
+Clone git repository
+
+```bash
+  git clone https://link-to-the-app
+```
+
+Go to main folder
+
+```bash
+  cd vite-project
+```
+
+Install dependencies with npm
+
+```bash
+  npm install
+```
+
+Run the app on local server
+
+```bash
+  npm run dev
+```
+
+
+
+
+## Usage
+
+Open the GitHub pages link: 
+
+
+
+## Contributing
+
+Contributions are welcome! Please open an issue or pull request.
+
+Fork the repo
+
+Create your branch (git checkout -b feat/feature-name)
+
+Commit your changes
+
+Push to the branch
+
+Open a pull request
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
