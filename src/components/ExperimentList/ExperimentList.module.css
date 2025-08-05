@@ -1,0 +1,12 @@
+.list {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    width: fit-content;
+}
+
+.row {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
