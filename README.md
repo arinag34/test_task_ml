@@ -52,9 +52,11 @@ Run the app on local server
 
 ## Usage
 
-Open the GitHub pages link: 
+1. Open the GitHub pages link: https://arinag34.github.io/test_task_ml/
 
+2. Choose your .csv file in the corresponding window.
 
+3. Choose experiments for visualization.
 
 ## Contributing
 
